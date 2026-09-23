@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "db6895344fab0a83928e9ae7",
+  "owner": "umyftfpqn",
+  "repo": "page-f415cca7c6c5d932c03ba96f",
+  "title": "Edge",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f415cca7c6c5d932c03ba96f",
+      "a": "Edge",
+      "b": "2027官方最新地址导航",
+      "entity": "Edge",
+      "brand": "Edge",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "397d89e2c4ed783bfed6070e7ebd9d414e204371138123d41ac7f50930ddfd83",
+      "content": {
+        "primary_entity": "Edge",
+        "keyword1": "Edge",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，Windows 用 Clash Verge，macOS 用 ClashX Pro，Android 用 v2rayNG，iOS 用 Shadowrocket，路由器可配 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "从基础版开始，按设备数量与流量需求逐步升级。",
+          "AI_CLOSING_TITLE": "选对套餐再用",
+          "AI_DESCRIPTION": "，Edge 提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 到 1000GB 流量，设备数从 3 台到 20 台，支持流媒体与 IPLC 专线加速，按年付更划算。",
+          "AI_FEATURES_INTRO": "套餐选择、设备需求与订阅周期都影响实际体验。",
+          "AI_FEATURES_TITLE": "订阅配置要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台设备，旗舰版 5 台，团队版 20 台，按常用设备数选档。",
+          "AI_FEATURE_TEXT_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB，重度使用优先大流量。",
+          "AI_FEATURE_TEXT_3": "按月付灵活，按年付价格更低，长期使用建议直接选年付。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量档位",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先选服务，再看适配要求，最后按客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "Edge 海外加速器提供三档订阅套餐，从个人基础版到团队版，覆盖不同设备数量和流量需求，支持流媒体解锁与线路优化，适合按设备规模选择。",
+          "AI_HERO_SUBTITLE": "三档订阅按设备选",
+          "AI_HIGHLIGHT_1": "三档套餐按需切换",
+          "AI_HIGHLIGHT_2": "设备数 3 到 20 台",
+          "AI_HIGHLIGHT_3": "年付价格更省",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，适合 3 台设备；旗舰版 ¥35/月，支持 5 台设备与 IPLC 专线；团队版 ¥85/月，可 20 台设备使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按设备数量与每月流量需求，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认常用设备系统与客户端版本，查看套餐支持的设备数量是否匹配。",
+          "AI_STEP_TEXT_3": "打开对应客户端，按文档导入订阅链接，完成节点更新与连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Edge 海外加速器",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Edge 套餐可以中途更换档位吗？",
+          "AI_FAQ_ANSWER_1": "可以，在订阅有效期内联系支持人员即可补差价或变更档位，剩余时长会按规则折算，具体以订阅时确认的政策为准。",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线。超出数量时部分设备会无法连接，需要升级或减少在线设备。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付相当于一次性支付 10 个月的费用，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，权益与月付一致。",
+          "AI_FAQ_QUESTION_4": "流量当月用不完会累积吗？",
+          "AI_FAQ_ANSWER_4": "各档套餐按自然月重置流量额度，未使用部分不结转至下月，长期超额使用建议选择更高档位。",
+          "AI_FAQ_QUESTION_5": "IPLC 专线对游戏有什么帮助？",
+          "AI_FAQ_ANSWER_5": "旗舰版的 IPLC 专线通过专用通道转发游戏数据，通常能降低跨境延迟和丢包，实际效果受本地网络与目标服务器影响。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sakongr.cn",
+    "host": "sakongr.cn"
+  },
+  "file_hashes": {
+    "index.html": "3b20baf1e3118b40806a34f5dc32ad689880626d75a6212a927c66ef276a3bfb",
+    "sitemap.xml": "b2c0f5a06ebc110a72e79bd1badf9ed96b8aa82618e554ded4e6051cb28456de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6c843ceb9203f794983f623559188f3eb7f1688393e069f1f3f6328d37525fd9",
+    "robots.txt": "b81f34121aa28cff4e9f6bd3e7623d7e986d9d81724b0517cbff20a8cad83f82",
+    "df90a767d61ce1e90f8defa89ab1cd7b.txt": "b84f4ca430470b4b0a507f393ac3d62a6df01f63f2175045832913a279703cc2"
+  },
+  "revision": "d62e31bc63253839772306ab116f62b5e51f1cf539c8c63b38f1ea348f466df2"
+}
